@@ -2,18 +2,4 @@
 
 Api Pool Project Documentation
 
-
-
-
-![Logo](https://i.ibb.co/5srLZCK/logo-200x200.png)
-
-    
-## API Kullanımı ve Destekleyen Programlama Dilleri
-
-| Diller |
-| :-------- | 
-| `PHP`      |
-| `Python`    |  
-| `C#`      |
-
-  
+**HAZIRLIK ASAMASINDADIR!**
