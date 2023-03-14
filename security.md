@@ -1,5 +1,5 @@
 
-# Security Documantion
+# Security Documentation
 
 **_Token Security Diagram_**
 
